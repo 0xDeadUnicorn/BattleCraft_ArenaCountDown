@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: BattleCraft |cff00ff99ArenaCountDown|r
+## Notes: Shows arena countdown timer in arena waiting room
+## Author: 0xDeadUnicorn
+BattleCraft_ArenaCountDown.lua
